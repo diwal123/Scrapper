@@ -5,15 +5,15 @@ This web application scraps the news from the BBC official websites. Beside scra
 ![](bank.JPG)
 
 ##Technologies Used
-Axios
-Cheerio
-MongoDB
-Node/Express
-JavaScript/ jQuery
-HTML
-CSS
+1. Axios
+2. Cheerio
+3. MongoDB
+4. Node/Express
+5. JavaScript/ jQuery
+6. HTML
+7. CSS
 
 
 ##Deployed Version
-[BBC Scrapper](https://polar-thicket-41813.herokuapp.com/)
+# [BBC Scrapper](https://polar-thicket-41813.herokuapp.com/)
 
